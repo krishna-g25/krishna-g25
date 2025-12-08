@@ -9,9 +9,9 @@
 
 <!-- Coding GIF Just Below Banner -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s" 
-       alt="Coding GIF" 
-       width="350" />
+  <img src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
+       alt="Coding GIF"
+       width="260" />
 </p>
 
 ---
