@@ -59,7 +59,6 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
-  <img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/>
