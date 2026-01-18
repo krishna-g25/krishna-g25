@@ -69,17 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-g25&theme=dark" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-g25&show_icons=true&locale=en&layout=compact&theme=dark" width="45%" />
-</p>
-
----
 
 ### 🏆 GitHub Achievements
 
