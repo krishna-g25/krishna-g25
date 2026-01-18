@@ -35,15 +35,7 @@
 
 ---
 
-### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/krishna-goel-38a345275/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
 
 ### 🛠 Languages & Tools
 
@@ -106,8 +98,6 @@
 
 ⭐ If you like my work, don’t forget to **star** my repositories!
 
-
-⭐ If you like my work, don't forget to **star** my repositories!
 
 ---
 
@@ -218,10 +208,6 @@
 
 ## 📞 Get In Touch
 
-- 📧 **Email:** [goelkrishna965@gmail.com](mailto:goelkrishna965@gmail.com)
-- 💼 **LinkedIn:** [Krishna Goel](https://www.linkedin.com/in/krishna-goel-38a345275/)
-- 🐦 **Twitter:** [@Krishna06192235](https://x.com/Krishna06192235)
-- 💻 **GitHub:** [@krishna-g25](https://github.com/krishna-g25)
 - 📍 **Location:** Jaipur, Rajasthan, India
 
 ---
