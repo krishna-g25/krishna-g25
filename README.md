@@ -1,11 +1,4 @@
-<!-- Banner (Reduced Height) -->
-<p align="center">
-  <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png" 
-       alt="Banner" 
-       width="100%" 
-       height="250px" 
-       style="object-fit:cover; border-radius:10px;" />
-</p>
+
 
 <!-- Coding GIF Just Below Banner -->
 <p align="center">
